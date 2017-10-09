@@ -20,7 +20,7 @@ namespace QuanLyCuaHangDoGoNoiThat
 
             BonusSkins.Register();
             SkinManager.EnableFormSkins();
-            Application.Run(new frmMain());
+            Application.Run(new frmDangNhap());
         }
     }
 }

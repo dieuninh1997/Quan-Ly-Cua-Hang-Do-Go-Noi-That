@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyCuaHangDoGoNoiThat", "QuanLyCuaHangDoGoNoiThat\QuanLyCuaHangDoGoNoiThat.csproj", "{F4964D56-0355-4E46-A585-13D705D2A023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{4AFFABB4-3E78-4ADC-8041-D6155A471DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{EDCCE311-13D5-4C0A-A691-2AF1F7171347}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F4964D56-0355-4E46-A585-13D705D2A023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4964D56-0355-4E46-A585-13D705D2A023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4964D56-0355-4E46-A585-13D705D2A023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFFABB4-3E78-4ADC-8041-D6155A471DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFFABB4-3E78-4ADC-8041-D6155A471DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFFABB4-3E78-4ADC-8041-D6155A471DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFFABB4-3E78-4ADC-8041-D6155A471DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCCE311-13D5-4C0A-A691-2AF1F7171347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCCE311-13D5-4C0A-A691-2AF1F7171347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCCE311-13D5-4C0A-A691-2AF1F7171347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCCE311-13D5-4C0A-A691-2AF1F7171347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
